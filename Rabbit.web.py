@@ -12,7 +12,7 @@ import streamlit.components.v1 as components
 
 im = Image.open("icons8-rabbit-100.png")
 st.set_page_config(
-    page_title="Rabbit.web"
+    page_title="Rabbit.web",
     page_icon=im
    
 )
