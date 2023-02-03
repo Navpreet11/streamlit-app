@@ -1,7 +1,10 @@
 streamlit
-pyrebase
 datetime
+pycryptodome
+pycryptodome==3.10.1
+pyrebase4
 streamlit_option_menu 
 PIL
 requests
 streamlit.components.v1
+

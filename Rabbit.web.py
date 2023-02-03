@@ -1,5 +1,5 @@
 import streamlit as st
-import pyrebase
+from pyrebase import pyrebase
 from datetime import datetime
 from streamlit_option_menu import option_menu
 from PIL import Image
@@ -12,7 +12,7 @@ import streamlit.components.v1 as components
 
 im = Image.open("icons8-rabbit-100.png")
 st.set_page_config(
-    page_title="Rabbit.web",
+    page_title="Rabbit.web"
     page_icon=im
    
 )
