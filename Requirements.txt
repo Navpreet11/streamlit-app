@@ -1,0 +1,8 @@
+streamlit==1.17.0
+streamlit-option-menu==0.3.0
+DateTime==4.4
+Pillow ==9.0.1
+requests==2.11.1
+Pyrebase4==4.5.0
+pycryptodome==3.17
+pycryptodomex==3.14.1
